@@ -1,6 +1,6 @@
 ---
 role: PhD Researcher in Environmental Engineering
-avatar_filename: img_6040-b-n-carnet.jpeg
+avatar_filename: avatar.jpeg
 bio: I'm interested in environmental engineering issues that will shape future
   urban assets
 interests: []
