@@ -13,8 +13,6 @@ design:
     image_darken: 0
     color: "#93b95d"
 ---
-## **Circular Environment**
+# **Circular Environment**
 
 A research portfolio
-
-##
