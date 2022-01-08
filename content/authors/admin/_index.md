@@ -22,7 +22,7 @@ social:
     link: www.linkedin.com/in/jmliesa
 organizations:
   - name: Universitat Politècnica de Catalunya
-    url: www.upc.edu
+    url: https://www.upc.edu
 education:
   courses:
     - course: PhD Candidate in Environmental Engineering
