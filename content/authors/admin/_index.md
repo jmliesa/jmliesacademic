@@ -1,6 +1,6 @@
 ---
 role: PhD Researcher in Environmental Engineering
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.png
 bio: I'm interested in environmental engineering issues that will shape future
   urban assets
 interests: []
@@ -19,7 +19,7 @@ social:
     link: https://github.com/jmliesa
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jmliesa
+    link: www.linkedin.com/in/jmliesa
 organizations:
   - name: Universitat Politècnica de Catalunya
     url: www.upc.edu
