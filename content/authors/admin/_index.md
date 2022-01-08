@@ -3,26 +3,23 @@ role: PhD Researcher in Environmental Engineering
 avatar_filename: img_6040-b-n-carnet.jpeg
 bio: I'm interested in environmental engineering issues that will shape future
   urban assets
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/jmliesa
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=1fejtIYAAAAJ&hl=ca&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jmliesa
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/jmliesa
 organizations:
   - name: Universitat Politècnica de Catalunya
     url: www.upc.edu
