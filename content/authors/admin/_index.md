@@ -14,6 +14,11 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=1fejtIYAAAAJ&hl=ca&oi=ao
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0001-8442-6399
   - icon: github
     icon_pack: fab
     link: https://github.com/jmliesa
@@ -22,9 +27,9 @@ social:
     link: www.linkedin.com/in/jmliesa
   - display:
       header: false
-    icon_pack: fab
-    icon: orcid
-    link: https://orcid.org/0000-0001-8442-6399
+    link: https://www.researchgate.net/profile/Joan-Munoz-Liesa
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Universitat Politècnica de Catalunya
     url: https://www.upc.edu
