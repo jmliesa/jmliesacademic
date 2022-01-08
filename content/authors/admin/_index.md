@@ -1,6 +1,6 @@
 ---
-title: Joan Muñoz-Liesa
 role: PhD Researcher in Environmental Engineering
+avatar_filename: img_6040-b-n-carnet.jpeg
 bio: I'm interested in environmental engineering issues that will shape future
   urban assets
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitat Politècnica de Catalunya
+    url: www.upc.edu
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,9 +37,10 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
 superuser: true
 highlight_name: true
+title: Joan Muñoz-Liesa
+email: ""
 ---
 Joan Muñoz-Liesa holds a Bachelor and Master Degree in Civil Engineer specialized in environmental engineering and sustainability (Technical University of Catalonia, UPC). During all his studies and professional life he has been working in environmental engineering and industrial ecology fields. In the private sector, he worked two years for the public administration in Barcelona and for private companies related with the water industry and civil engineering sector. During his master thesis, he studied at the NTNU (Norway) the water—energy—carbon nexus. Currently, he is a PhD candidate in the UPC at the Department of Civil and Environmental Engineering. He is also closely collaborating with the Sostenipra research group in the Institute of Science and Technology (ICTA) in the Autonomus University of Barcelona (UAB), investigating the energy and material related benefits of urban agriculture..
 
