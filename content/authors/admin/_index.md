@@ -19,7 +19,7 @@ social:
     link: https://github.com/jmliesa
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/jmliesa
+    link: https://www.linkedin.com/in/jmliesa
 organizations:
   - name: Universitat Politècnica de Catalunya
     url: www.upc.edu
